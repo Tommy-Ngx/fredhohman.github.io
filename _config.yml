@@ -1,7 +1,6 @@
 title: Fred Hohman
 tagline: Research Scientist at Apple
-url: http://fredhohman.com
-baseurl: ""
+baseurl: /fredhohman.github.io 
 # gems: [jekyll-paginate]
 # paginate: 5
 
